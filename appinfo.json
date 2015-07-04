@@ -7,7 +7,8 @@
     "longName": "24h analog watch",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+        ]
     },
     "sdkVersion": "3",
     "shortName": "24h analog watch",
