@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Felix Herrmann",
+    "longName": "24h analog watch",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "24h analog watch",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "1bae1bb3-af64-4fe1-b852-6f95f47b61bc",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
